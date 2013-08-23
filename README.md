@@ -1,10 +1,12 @@
-FCS_001
-=================
+RC Flight Control System:
 
-  Misc. Processing and Arduino applications I've created for a open source prototype of aground based control
-plateform for my RC airplanes.
+  Misc. Processing and Arduino applications I've created for a open source prototype of a ground based control
+plateform for my RC airplanes. Please be aware RC aircraft are dangerios when used inproperly. This project is
+strickly in it's Alpha stage and I in no way shape or form responsible for injury or damage to ones self,
+spectators, Aircraft, or property when using any of the information, hardware or software discribed or listed
+here in this redepository.
 
-PROJECT GOALS: To produde a fully fuctional flight control system for my RC model air plane.
+PROJECT GOALS: To produde a fully fuctional flight control system for my RC model airplanes.
 
   The project will includes scematics, sketchs and libraries needed to create a fully fuctional flight contol system
 with Atitude indicator, Altimeter, Compass and heading gages along with a in flight real time video feed with GPS.
