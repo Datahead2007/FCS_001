@@ -7,7 +7,7 @@ plateform for my RC airplanes.
 PROJECT GOALS: To produde a fully fuctional flight control system for my RC model air plane.
 
   The project will includes scematics, sketchs and libraries needed to create a fully fuctional flight contol system
-with Atitude indicator, Altimeter, Compass and heading gages alonn with a in flight real time video feed with GPS.
+with Atitude indicator, Altimeter, Compass and heading gages along with a in flight real time video feed with GPS.
 
   The remote hardware for the aircraft is an Arduino based plateform communicating to a PC via a RF feed. Where as
 the main computer or base station will use Processing to display the flight information to the user. Also sending
