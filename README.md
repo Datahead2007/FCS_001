@@ -1,9 +1,12 @@
-RC Flight Control System:
+Open-Source-RC-Control
 
 Misc. Processing and Arduino applications I've created for a open source prototype of a ground based control
-platform for my RC airplanes.
+platform for my RC airplanes. However, system can me used for ground based RC plateforms as well. I the future 
+I may create s interface for ground based units. For now I am concentrating on airial systems.
 
-PROJECT GOALS: To produce a fully functional flight control system for my RC model airplanes.
+PROJECT GOALS: To produce a fully functional flight control system for my RC model airplanes. Where one can
+control the RC plateform from their computer, while recieving data back from the unit.
+
 
 The project will includes schematics, sketches and libraries needed to create a fully functional flight control
 system with Altitude indicator, Altimeter, Compass and heading gages along with a in flight real time video feed
