@@ -13,10 +13,9 @@ Also sending control data back to the remote unit to fly the aircraft.
 
 Disclaimer:
 
-1.To the best of my knowledge all software here is open source and fall under GPU license. I will do my best to
+  To the best of my knowledge all software here is open source and fall under GPU license. I will do my best to
 mention the author if possible and supply links to websites where the software was obtained.
-
-2. Please be aware RC aircraft are dangerous when used improperly. This project is strictly in its Alpha stage
+  Please be aware RC aircraft are dangerous when used improperly. This project is strictly in its Alpha stage
 and I in no way shape or form responsible for injury or damage to ones self, spectators, Aircraft, or property
 when using any of the information, hardware or software described or listed here in this redepository.
 
