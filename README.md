@@ -1,20 +1,22 @@
 Open-Source-RC-Control
+======================
 
 Misc. Processing and Arduino applications I've created for a open source prototype of a ground based control
-platform for my RC airplanes. However, system can me used for ground based RC plateforms as well. I the future 
-I may create s interface for ground based units. For now I am concentrating on airial systems.
+platform for my RC airplanes. However, the system can me used for ground based RC plateforms as well. In the
+future I may create s interface for ground based units. For now I am concentrating on airial systems.
 
-PROJECT GOALS: To produce a fully functional flight control system for my RC model airplanes. Where one can
-control the RC plateform from their computer, while recieving data back from the unit.
-
-
-The project will includes schematics, sketches and libraries needed to create a fully functional flight control
-system with Altitude indicator, Altimeter, Compass and heading gages along with a in flight real time video feed
-with GPS. The remote hardware for the aircraft is an Arduino based platform communicating to a PC via a RF feed.
-Where as the main computer or base station will use Processing to display the flight information to the user.
-Also sending control data back to the remote unit to fly the aircraft.
+PROJECT GOALS:
+==============
+To produce a fully functional flight control system for my RC model airplanes. Where one can
+control the RC plateform from their computer, while recieving data back from the unit. The project will includes
+schematics, sketches and libraries needed to create a fully functional flight control system with Altitude indicator,
+Altimeter, Compass and heading gages along with a in flight real time video feed with GPS. The remote hardware for 
+the aircraft is an Arduino based platform communicating to a PC via a RF feed. Where as the main computer or base 
+station will use Processing to display the flight information to the user. Also sending control data back to the
+remote unit to fly the aircraft.
 
 Disclaimer:
+===========
 
   To the best of my knowledge all software here is open source and fall under GPU license. I will do my best to
 mention the author if possible and supply links to websites where the software was obtained.
